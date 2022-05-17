@@ -34,7 +34,10 @@
   <a href="https://www.linkedin.com/in/mahmuda-akter-mitu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mitu1403&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitu1403&theme=material-palenight&show_icons=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mitu1403&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-## Find My Online Resume <a href="https://mitu1403.github.io/hl-task">HERE</a>
+### Find My Online Resume <a href="https://mitu1403.github.io/hl-task">HERE</a>
