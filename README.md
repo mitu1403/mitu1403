@@ -1,6 +1,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mitu1403)
 
-## <p align="center">Hi there 👋, I am Mahmuda Akter Mitu</p>
+## <p align="center">Hi there 👋, I am Mahmuda Akter</p>
 
 - 🌱 I’m currently learning `Laravel`
 
