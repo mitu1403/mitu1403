@@ -22,9 +22,6 @@ Find out more about me :
   <a href="https://www.github.com/mitu1403" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.github.com/mitu1403" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/183577242-5081ea3b-7a3c-419b-9b81-014bf32e2e69.png" width="32" height="32" />
-  </a>&nbsp;&nbsp;
 </p>
 
 
