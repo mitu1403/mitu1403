@@ -47,7 +47,7 @@ I’m currently learning `Laravel`
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 <a href="https://mitu1403.github.io/hl-task">
-      <img height="168px" width="50%" src="https://github-readme-stats.vercel.app/api?username=mitu1403&theme=material-     palenight&show_icons=true&hide_border=true" /><img height="168px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitu1403&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" />
+  <img height="168px" width="50%" src="https://github-readme-stats.vercel.app/api?username=mitu1403&theme=material-palenight&show_icons=true&hide_border=true" /><img height="168px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitu1403&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" />
 </a>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitu1403&layout=compact&theme=material-palenight)](https://github.com/mitu1403/github-readme-stats)
  -->
