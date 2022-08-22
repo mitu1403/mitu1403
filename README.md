@@ -1,15 +1,13 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mitu1403)
 
 ## <p align="center">Hi there 👋, I am Mahmuda Akter</p>
+<p align="center">
+I’m currently working on Building A Start-Up <br>
+I’m currently learning `Laravel`
+</p>
 
-- 🔭 I’m currently working on Building A Start-Up
-- 🌱 I’m currently learning `Laravel`
-
-
-
-Find out more about me :
-
-<p align="left"> 
+<p align="center"> 
+  Find out more about me :</br></br>
   <a href="https://www.facebook.com/profile.php?id=100009156817243" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
   </a> &nbsp;&nbsp;   
@@ -18,9 +16,6 @@ Find out more about me :
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mahmuda-akter-mitu" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.github.com/mitu1403" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
   </a>&nbsp;&nbsp;
 </p>
 
@@ -51,15 +46,17 @@ Find out more about me :
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
+<img height="168px" width="50%" src="https://github-readme-stats.vercel.app/api?username=mitu1403&theme=material-palenight&show_icons=true&hide_border=true" /><img height="168px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitu1403&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" />
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitu1403&layout=compact&theme=material-palenight)](https://github.com/mitu1403/github-readme-stats)
+ -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitu1403&layout=compact&theme=material-palenight)](https://github.com/mitu1403/github-readme-stats)
+<!-- ![Mahmuda AKter Mitu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitu1403&theme=material-palenight&show_icons=true) -->
 
+<p align="center">
+  <img height="168px" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mitu1403&hide_border=true&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
-![Mahmuda AKter Mitu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitu1403&theme=material-palenight&show_icons=true)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mitu1403&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mitu1403&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 ### Find My Online Resume <a href="https://mitu1403.github.io/hl-task">HERE</a>
