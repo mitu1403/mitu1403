@@ -2,8 +2,8 @@
 
 ## <p align="center">Hi there 👋, I am Mahmuda Akter</p>
 <p align="center">
-I’m currently working on Building A Start-Up <br>
-I’m currently learning `Laravel`
+<!--I’m currently working on Building A Start-Up <br>-->
+<!--I’m currently learning `Laravel`-->
 </p>
 
 <p align="center"> 
