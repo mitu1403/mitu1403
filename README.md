@@ -58,10 +58,27 @@
 
 <!-- ![Mahmuda AKter Mitu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitu1403&theme=material-palenight&show_icons=true) -->
 
+<!--
 <p align="center">
   <img height="168px" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mitu1403&hide_border=true&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+-->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mitu1403&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+
+## 🩸 Projects
+<a href="http://www.targetscope.com.bd/">Target Scope Consulting</a><br/> 
+<a href="https://next-routing-psi.vercel.app/">Next Events</a><br/>
+<a href="https://github.com/mitu1403/fullpage-slide">Presentation with FullPageSlide.js</a><br/>
+<a href="https://reactailwindproject.netlify.app/">REACT.</a><br/>
+<a href="https://mitu1403.github.io/manage/">Manage</a><br/>
+<a href="https://mitu1403.github.io/consultant/">Consultant</a><br/>
+<a href="https://mitu1403.github.io/Xypo/">XYPO</a><br/>
+<a href="https://mitu1403.github.io/ERP/">ERP</a><br/>
+<a href="https://mitu1403.github.io/soi-site/">School of Inspiration - An Youth Org.</a> <br/>
+<a href="https://mitu1403.github.io/Reddit-clone/">Reddit-clone</a><br/>
+<a href="https://mitu1403.github.io/responsive-travel-theme-materialize-css/">Travel.io</a><br/>
+<a href="https://mitu1403.github.io/Bullsy/">Bullsy</a><br/>
+
 
 ### Find My Online Resume <a href="https://mitu1403.github.io/hl-task">HERE</a>
