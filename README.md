@@ -74,10 +74,7 @@
 <a href="https://mitu1403.github.io/manage/">Manage</a><br/>
 <a href="https://mitu1403.github.io/consultant/">Consultant</a><br/>
 <a href="https://mitu1403.github.io/Xypo/">XYPO</a><br/>
-<a href="https://mitu1403.github.io/ERP/">ERP</a><br/>
 <a href="https://mitu1403.github.io/soi-site/">School of Inspiration - An Youth Org.</a> <br/>
-<a href="https://mitu1403.github.io/Reddit-clone/">Reddit-clone</a><br/>
-<a href="https://mitu1403.github.io/responsive-travel-theme-materialize-css/">Travel.io</a><br/>
 <a href="https://mitu1403.github.io/Bullsy/">Bullsy</a><br/>
 
 
