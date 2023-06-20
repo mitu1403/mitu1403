@@ -68,6 +68,7 @@
 
 ## 🩸 Projects
 <a href="http://www.targetscope.com.bd/">Target Scope Consulting</a><br/> 
+<a href="https://mitu1403.github.io/Galapagos/dist/index.html">Galapagos</a><br/>
 <a href="https://next-routing-psi.vercel.app/">Next Events</a><br/>
 <a href="https://github.com/mitu1403/fullpage-slide">Presentation with FullPageSlide.js</a><br/>
 <a href="https://reactailwindproject.netlify.app/">REACT.</a><br/>
